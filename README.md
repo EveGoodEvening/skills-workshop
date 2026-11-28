@@ -41,11 +41,11 @@ python3 tools/export_speech.py
 
 ## 时长
 
-全稿照念约 109 分钟。压到 45 分钟左右时，建议按这个顺序删：
+全稿照念约 85 分钟。压到 45 分钟左右时，建议按这个顺序删：
 
-1. 先删：其它好用的小工具、23 个 playbook、Principles、构建清理验证、Claude Code 下的 pstack 与常见坑、同名与同类对照、配方 4 和 5；两处安装页各用一句话带过。
+1. 先删：其它值得知道的、23 个 playbook、Principles、构建清理验证、Claude Code 下的 pstack 与常见坑、同名与同类对照、配方 4 和 5；两处安装页各用一句话带过。
 2. 再删：/wayfinder、过夜跑、设计力度阶梯、plannotator 进阶（只留 `--gate` 一句）。
-3. 合并：“事后：reflect / correct / automate-me” 并入“把教训留在仓库里”，“Prototype playbook” 并入“两种 prototype”。两张场景速查不念，留作讲义。
+3. 合并：“事后：reflect / correct / automate-me” 并入“复盘闭环”，“Prototype playbook” 并入“两种 prototype”。两张场景速查不念，留作讲义。
 
 ## 内容来源
 
